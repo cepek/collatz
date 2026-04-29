@@ -1,5 +1,5 @@
 /*
- * Patrik Kudláček, Záhada padajících čísel. MAtematický objev, ze
+ * Patrik Kudláček, Záhada padajících čísel. Matematický objev, ze
  * kterého běhá mráz po zádech. Medium, Seznam.cz, 2026
  *
  *
