@@ -10,9 +10,9 @@
  * 1. Pokud je  číslo sudé, vydělte ho dvěma.
  * 2. Pokud je číslo liché, vynásobte ho třemi a přičtětě jedničku.
  *
- * Tento postup opkujte s každým novým výsledkem.
+ * Tento postup opakujte s každým novým výsledkem.
  *
- * Jakmile se dostanete na jedničku, ctklus se dostane do nekonečné
+ * Jakmile se dostanete na jedničku, cyklus se dostane do nekonečné
  * smyčky: 1 je lichá (3*1 +1 = 4), 4 je sudá (2), a zase 1. Konec hry.
  */
 
